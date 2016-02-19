@@ -1,0 +1,31 @@
+{
+    "name": "gulp-file-ver",
+    "version": "1.0.0",
+    "description": "a gulp plugin manage file version",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "gulp-file-ver",
+        "gulp",
+        "version",
+        "file"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/js571/gulp-file-ver.git",
+        "web": "https://github.com/js571/gulp-file-ver.git"
+    },
+    "bugs": {
+        "url": "https://github.com/js571/gulp-file-ver/issues",
+        "email": "464896740@qq.com"
+    },
+    "author": "Maat",
+    "license": "MIT",
+    "dependencies": {
+        "gulp-util": "^3.0.4",
+        "object-assign": "^2.0.0",
+        "through2": "^0.6.3"
+    }
+}
